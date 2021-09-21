@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data0.9</folder>
+	<filename>2019041171346_final.jpg</filename>
+	<path>C:\IA\ocr-c\Data0.9\2019041171346_final.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>882</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>43</ymin>
+			<xmax>233</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
